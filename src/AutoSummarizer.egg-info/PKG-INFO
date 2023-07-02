@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: AutoSummarizer
+Version: 0.0.0
+Summary: Efficiently distill lengthy text into concise summaries, enabling quick comprehension and information retrieval
+Home-page: https://github.com/pradyumnjain/AutoSummarizer
+Author: pradyumnjain
+Author-email: pradyumn25jain@gmail.com
+Project-URL: Bug Tracker, https://github.com/pradyumnjain/AutoSummarizer/issues
+License-File: LICENSE
+
+# AutoSummarizer
+Efficiently distill lengthy text into concise summaries, enabling quick comprehension and  information retrieval
